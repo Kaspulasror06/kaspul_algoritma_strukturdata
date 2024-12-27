@@ -1,0 +1,11 @@
+nama = input("masukkan nama anda =")
+usia = input("masukkan usia anda =")
+alamat = input("masukkan alamat anda =")
+hobi = input("masukkan hobi anda=")
+
+print("\n===Biodata anda===")
+print(f"nama :{nama}")
+print(f"usia :{usia} tahun")
+print(f"alamat :{alamat}")
+print(f"Hobi :{hobi}")
+print("===================")
